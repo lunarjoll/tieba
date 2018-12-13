@@ -1,5 +1,5 @@
 # ABOUT
-It is a fork from [linyha](https://github.com/linyha/tieba.gitI)
+It is a fork from [linyha](https://github.com/linyha/tieba.git)
   
 I update old to python3, use requests instead of urllib.
 
